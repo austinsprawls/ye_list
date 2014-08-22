@@ -1,0 +1,33 @@
+/* *, *:before, *:after{
+  border: 1px solid red;
+  box-sizing: border-box;
+} */
+
+h1, p{
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+}
+.brand{
+  width: 100%;
+  margin-bottom: 1%;
+}
+.logo, .instructions{
+  margin-left: 2%;
+}
+.emotions{
+  margin-top: 1%;
+  width: 50%;
+}
+.img-circle{
+  border: 2px solid #fff;
+  width: 17%;
+  height: 50%;
+  margin: 1%;
+}
+.img-circle:hover{
+  border: 2px solid purple;
+}
+body{
+  background: url('../img/yeezus.jpg') no-repeat;
+  background-size: cover;
+}

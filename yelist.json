@@ -2,38 +2,38 @@
   {
   "title": "We Don't Care",
   "id": "0Z1ozhbWc9XPczRSrFYqBb",
-  "min_anger":0,
+  "min_anger":1,
   "max_anger":2
   },
   {
   "title": "All Falls Down",
   "id": "2cYZpcIV39X48RnOFM7w2V",
   "min_anger":2,
-  "max_anger":5
+  "max_anger":3
   },
   {
   "title": "Spaceship",
   "id": "0RuJD7YfBO2gvj6smWkAgR",
-  "min_anger":7,
-  "max_anger":9
+  "min_anger":3,
+  "max_anger":4
   },
   {
   "title": "Jesus Walks",
   "id": "62r62ArmWq38cu6QCVgyTc",
-  "min_anger": 5,
-  "max_anger":7
+  "min_anger": 3,
+  "max_anger":4
   },
   {
   "title": "Never Let Me Down",
   "id": "0XMJORJKm4q3iorGAtcait",
   "min_anger":2,
-  "max_anger":5
+  "max_anger":3
   },
   {
   "title": "Get Em High",
   "id": "0eSuBkGm5URmCu6OymIv8x",
   "min_anger":2,
-  "max_anger":5
+  "max_anger":3
   },
   {
   "title": "The New Workout Plan",
@@ -45,6 +45,43 @@
   "title": "Slow Jamz",
   "id": "32UioUCnMFsr2UN7SvDyXj",
   "min_anger":0,
+  "max_anger":1
+  },
+  {
+  "title": "Breathe In, Breathe Out",
+  "id": "1RoMbgq42xO1DDseGTtuEE",
+  "min_anger":3,
+  "max_anger":4
+  },
+  {
+  "title": "School Spirit",
+  "id": "1g1zk6gOFE63kDszT1luxY",
+  "min_anger":2,
+  "max_anger":3
+  },
+  {
+  "title": "Two Words",
+  "id": "6GI114RuBiRyc09NcXyU6y",
+  "min_anger":4,
+  "max_anger":5
+  },
+  {
+  "title": "Through the Wire",
+  "id": "3KUpGMnZL76I9E7FoWV1re",
+  "min_anger":2,
+  "max_anger":3
+  },
+  {
+  "title": "Family Business",
+  "id": "6wFxUq7Gr44N3uwLjVQRR0",
+  "min_anger":2,
+  "max_anger":3
+  },
+  {
+  "title": "Last Call",
+  "id": "0yfeb8mdWhnvuXPjawDbdy",
+  "min_anger":1,
   "max_anger":2
   },
+
 ]
