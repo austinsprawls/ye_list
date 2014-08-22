@@ -1,0 +1,50 @@
+  "tracks" = [
+  {
+  "title": "We Don't Care",
+  "id": "0Z1ozhbWc9XPczRSrFYqBb",
+  "min_anger":0,
+  "max_anger":2
+  },
+  {
+  "title": "All Falls Down",
+  "id": "2cYZpcIV39X48RnOFM7w2V",
+  "min_anger":2,
+  "max_anger":5
+  },
+  {
+  "title": "Spaceship",
+  "id": "0RuJD7YfBO2gvj6smWkAgR",
+  "min_anger":7,
+  "max_anger":9
+  },
+  {
+  "title": "Jesus Walks",
+  "id": "62r62ArmWq38cu6QCVgyTc",
+  "min_anger": 5,
+  "max_anger":7
+  },
+  {
+  "title": "Never Let Me Down",
+  "id": "0XMJORJKm4q3iorGAtcait",
+  "min_anger":2,
+  "max_anger":5
+  },
+  {
+  "title": "Get Em High",
+  "id": "0eSuBkGm5URmCu6OymIv8x",
+  "min_anger":2,
+  "max_anger":5
+  },
+  {
+  "title": "The New Workout Plan",
+  "id": "0fDf7lTJ6A6uzGWUEJHcCq",
+  "min_anger":0,
+  "max_anger":2
+  },
+  {
+  "title": "Slow Jamz",
+  "id": "32UioUCnMFsr2UN7SvDyXj",
+  "min_anger":0,
+  "max_anger":2
+  },
+]
