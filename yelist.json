@@ -38,14 +38,14 @@
   {
   "title": "The New Workout Plan",
   "id": "0fDf7lTJ6A6uzGWUEJHcCq",
-  "min_anger":0,
+  "min_anger":1,
   "max_anger":2
   },
   {
   "title": "Slow Jamz",
   "id": "32UioUCnMFsr2UN7SvDyXj",
-  "min_anger":0,
-  "max_anger":1
+  "min_anger":1,
+  "max_anger":2
   },
   {
   "title": "Breathe In, Breathe Out",
@@ -82,6 +82,42 @@
   "id": "0yfeb8mdWhnvuXPjawDbdy",
   "min_anger":1,
   "max_anger":2
+  },
+  {
+  "title": "Heard 'Em Say",
+  "id": "6yIjtVtnOBeC8SwdVHzAuF",
+  "min_anger":1,
+  "max_anger":2
+  },
+  {
+  "title": "Touch The Sky",
+  "id": "2dxjKgT0li4qBI3QwuN9Ih",
+  "min_anger":1,
+  "max_anger":2
+  },
+  {
+  "title": "Gold Digger",
+  "id": "1PS1QMdUqOal0ai3Gt7sDQ",
+  "min_anger":2,
+  "max_anger":3
+  },
+  {
+  "title": "Drive Slow",
+  "id": "6vB49BJ70zBpDrrAPwdaB8",
+  "min_anger":1,
+  "max_anger":2
+  },
+  {
+  "title": "My Way Home",
+  "id": "0TzIHqhAbvYR6qJKrMMFlk",
+  "min_anger":2,
+  "max_anger":3
+  },
+  {
+  "title": "Crack Music",
+  "id": "4fRTe59xEeNHT4uyAGsV27",
+  "min_anger":3,
+  "max_anger":4
   },
 
 ]

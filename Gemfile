@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'sinatra'
 gem "sinatra-activerecord"
-gem "activerecord"
-gem "pg"
+gem 'sqlite3'
 gem "rake"
-gem 'bootstrap-slider-rails'
+gem "pg"
+gem "spotify-client"

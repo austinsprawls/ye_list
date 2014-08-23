@@ -10,4 +10,4 @@ end
 
 require_relative './databases/sql.rb'
 require_relative './entities/track.rb'
-require_relative './scripts/yelist.rb'
+require_relative './scripts/generate_playlist.rb'
