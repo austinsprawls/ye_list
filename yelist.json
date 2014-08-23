@@ -1,123 +1,378 @@
-  "tracks" = [
+  [
   {
   "title": "We Don't Care",
-  "id": "0Z1ozhbWc9XPczRSrFYqBb",
-  "min_anger":1,
-  "max_anger":2
+  "spotify_id": "0Z1ozhbWc9XPczRSrFYqBb",
+  "anger":1
   },
   {
   "title": "All Falls Down",
-  "id": "2cYZpcIV39X48RnOFM7w2V",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "2cYZpcIV39X48RnOFM7w2V",
+  "anger":2
   },
   {
   "title": "Spaceship",
-  "id": "0RuJD7YfBO2gvj6smWkAgR",
-  "min_anger":3,
-  "max_anger":4
+  "spotify_id": "0RuJD7YfBO2gvj6smWkAgR",
+  "anger":4
   },
   {
   "title": "Jesus Walks",
-  "id": "62r62ArmWq38cu6QCVgyTc",
-  "min_anger": 3,
-  "max_anger":4
+  "spotify_id": "62r62ArmWq38cu6QCVgyTc",
+  "anger": 4
   },
   {
   "title": "Never Let Me Down",
-  "id": "0XMJORJKm4q3iorGAtcait",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "0XMJORJKm4q3iorGAtcait",
+  "anger":3
   },
   {
   "title": "Get Em High",
-  "id": "0eSuBkGm5URmCu6OymIv8x",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "0eSuBkGm5URmCu6OymIv8x",
+  "anger":2
   },
   {
   "title": "The New Workout Plan",
-  "id": "0fDf7lTJ6A6uzGWUEJHcCq",
-  "min_anger":1,
-  "max_anger":2
+  "spotify_id": "0fDf7lTJ6A6uzGWUEJHcCq",
+  "anger":1
   },
   {
   "title": "Slow Jamz",
-  "id": "32UioUCnMFsr2UN7SvDyXj",
-  "min_anger":1,
-  "max_anger":2
+  "spotify_id": "32UioUCnMFsr2UN7SvDyXj",
+  "anger":1
   },
   {
   "title": "Breathe In, Breathe Out",
-  "id": "1RoMbgq42xO1DDseGTtuEE",
-  "min_anger":3,
-  "max_anger":4
+  "spotify_id": "1RoMbgq42xO1DDseGTtuEE",
+  "anger":4
   },
   {
   "title": "School Spirit",
-  "id": "1g1zk6gOFE63kDszT1luxY",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "1g1zk6gOFE63kDszT1luxY",
+  "anger":2
   },
   {
   "title": "Two Words",
-  "id": "6GI114RuBiRyc09NcXyU6y",
-  "min_anger":4,
-  "max_anger":5
+  "spotify_id": "6GI114RuBiRyc09NcXyU6y",
+  "anger":5
   },
   {
   "title": "Through the Wire",
-  "id": "3KUpGMnZL76I9E7FoWV1re",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "3KUpGMnZL76I9E7FoWV1re",
+  "anger":2
   },
   {
   "title": "Family Business",
-  "id": "6wFxUq7Gr44N3uwLjVQRR0",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "6wFxUq7Gr44N3uwLjVQRR0",
+  "anger":2
   },
   {
   "title": "Last Call",
-  "id": "0yfeb8mdWhnvuXPjawDbdy",
-  "min_anger":1,
-  "max_anger":2
+  "spotify_id": "0yfeb8mdWhnvuXPjawDbdy",
+  "anger":1
   },
   {
   "title": "Heard 'Em Say",
-  "id": "6yIjtVtnOBeC8SwdVHzAuF",
-  "min_anger":1,
-  "max_anger":2
+  "spotify_id": "6yIjtVtnOBeC8SwdVHzAuF",
+  "anger":1
   },
   {
   "title": "Touch The Sky",
-  "id": "2dxjKgT0li4qBI3QwuN9Ih",
-  "min_anger":1,
-  "max_anger":2
+  "spotify_id": "2dxjKgT0li4qBI3QwuN9Ih",
+  "anger":1
   },
   {
   "title": "Gold Digger",
-  "id": "1PS1QMdUqOal0ai3Gt7sDQ",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "1PS1QMdUqOal0ai3Gt7sDQ",
+  "anger":2
   },
   {
   "title": "Drive Slow",
-  "id": "6vB49BJ70zBpDrrAPwdaB8",
-  "min_anger":1,
-  "max_anger":2
+  "spotify_id": "6vB49BJ70zBpDrrAPwdaB8",
+  "anger":1
   },
   {
   "title": "My Way Home",
-  "id": "0TzIHqhAbvYR6qJKrMMFlk",
-  "min_anger":2,
-  "max_anger":3
+  "spotify_id": "0TzIHqhAbvYR6qJKrMMFlk",
+  "anger":2
   },
   {
   "title": "Crack Music",
-  "id": "4fRTe59xEeNHT4uyAGsV27",
-  "min_anger":3,
-  "max_anger":4
+  "spotify_id": "4fRTe59xEeNHT4uyAGsV27",
+  "anger":4
   },
+  {
+  "title": "Roses",
+  "spotify_id": "2DHNCWZYmVr1Lv08q5b0kB",
+  "anger":4
+  },
+  {
+  "title": "Bring Me Down",
+  "spotify_id": "25K9cWrxNv991UYiOzBJqR",
+  "anger":4
+  },
+  {
+  "title": "Addiction",
+  "spotify_id": "5VzeI5JM2y9t21JwrWAnkH",
+  "anger":2
+  },
+  {
+  "title": "Diamonds From Sierra Leone",
+  "spotify_id": "34KUIBsIUiPV7oCIzSdDAU",
+  "anger":4
+  },
+  {
+  "title": "We Major",
+  "spotify_id": "46fk9wjYcPm0sgym2b7EEE",
+  "anger":1
+  },
+  {
+  "title": "Hey Momma",
+  "spotify_id": "46OFHBw45fNi7QNjSetITR",
+  "anger":1
+  },
+  {
+  "title": "Celebration",
+  "spotify_id": "7jAxGkXU58FwNMjqoMahn7",
+  "anger":1
+  },
+  {
+  "title": "Gone",
+  "spotify_id": "5RjbFGeWVsCpw8EcE8OrvZ",
+  "anger":3
+  },
+  {
+  "title": "Late",
+  "spotify_id": "1mFHMzbaECWFaPfoePoEYl",
+  "anger":3
+  },
+  {
+  "title": "Good Morning",
+  "spotify_id": "27eO3EGKIUU7yug1eOxUZu",
+  "anger": 2
+  },
+  {
+  "title": "Champion",
+  "spotify_id": "7hNx9Dynz2fRO41L9AEVA8",
+  "anger": 1
+  },
+  {
+  "title": "Stronger",
+  "spotify_id": "6C7RJEIUDqKkJRZVWdkfkH",
+  "anger": 1
+  },
+  {
+  "title": "I Wonder",
+  "spotify_id": "6bXOlIfGIWh7Tyn4oyvLQW",
+  "anger": 2
+  },
+  {
+  "title": "Good Life",
+  "spotify_id": "1fLdeDTrJWNkwOeFyAVLvF",
+  "anger": 1
+  },
+  {
+  "title": "Can't Tell Me Nothing",
+  "spotify_id": "4ImL3v98u2BLkwnyQDjfRm",
+  "anger": 5
+  },
+  {
+  "title": "Barry Bonds",
+  "spotify_id": "7kXINLuqpicfE1sDCZ3Xwv",
+  "anger": 3
+  },
+  {
+  "title": "Drunk and Hot Girls",
+  "spotify_id": "1xMT0HHQbQFmGJXDq1ApgX",
+  "anger": 4
+  },
+  {
+  "title": "Flashing Lights",
+  "spotify_id": "0ua0Go4NN4Td7l0Zre6Ce3",
+  "anger": 3
+  },
+  {
+  "title": "Everything I Am",
+  "spotify_id": "1XQhZctQWzkznclbmbE7FQ",
+  "anger": 3
+  },
+  {
+  "title": "The Glory",
+  "spotify_id": "39cpcnobaB8FdedVjHjXP2",
+  "anger": 1
+  },
+  {
+  "title": "Homecoming",
+  "spotify_id": "2iaCM7WvOknQI1230hA9eK",
+  "anger": 1
+  },
+  {
+  "title": "Big Brother",
+  "spotify_id": "19PtHjgLtiKGsrRoC1f9IF",
+  "anger": 1
+  },
+  {
+  "title": "Say You Will",
+  "spotify_id": "6SpyIVK0cZfb0SjsqyqfTV",
+  "anger": 3
+  },
+  {
+  "title": "Welcome to Heartbreak",
+  "spotify_id": "4wreoOJRkLvJVjmyQ1PEKn",
+  "anger": 4
+  },
+  {
+  "title": "Heartless",
+  "spotify_id": "5h9pB5af60LWJBrG1HCHsU",
+  "anger": 5
+  },
+  {
+  "title": "Amazing",
+  "spotify_id": "7tsgm8M8uO6W1HmBAmHFGv",
+  "anger": 1
+  },
+  {
+  "title": "Love Lockdown",
+  "spotify_id": "2UNedS0c7DmhV7q6CnwcmT",
+  "anger": 3
+  },
+  {
+  "title": "Paranoid",
+  "spotify_id": "1C0ACIWByTCgeRcXF6kNwS",
+  "anger": 1
+  },
+  {
+  "title": "RoboCop",
+  "spotify_id": "2Jeh872xwy19kZWTh0W3cp",
+  "anger": 2
+  },
+  {
+  "title": "Street Lights",
+  "spotify_id": "5m1J0aGTmpTlxofGcF28wq",
+  "anger": 3
+  },
+  {
+  "title": "Bad News",
+  "spotify_id": "2fKdOLA3D5lazNIr8JmYkS",
+  "anger": 4
+  },
+  {
+  "title": "See You In My Nightmares",
+  "spotify_id": "2vpVa09ocfQ3EqQJu2UQYw",
+  "anger": 5
+  },
+  {
+  "title": "Coldest Winter",
+  "spotify_id": "4PO23vgUrbXkPwwCJlVASQ",
+  "anger": 4
+  },
+  {
+  "title": "Pinocchio Story",
+  "spotify_id": "7lKJ6EcQVzi5tspklssjNs",
+  "anger": 4
+  },
+  {
+  "title": "Dark Fantasy",
+  "spotify_id": "7yNK27ZTpHew0c55VvIJgm",
+  "anger": 1
+  },
+  {
+  "title": "Gorgeous",
+  "spotify_id": "23SZWX2IaDnxmhFsSLvkG2",
+  "anger": 4
+  },
+  {
+  "title": "POWER",
+  "spotify_id": "2gZUPNdnz5Y45eiGxpHGSc",
+  "anger": 5
+  },
+  {
+  "title": "All of the Lights",
+  "spotify_id": "22L7bfCiAkJo5xGSQgmiIO",
+  "anger": 5
+  },
+  {
+  "title": "Monster",
+  "spotify_id": "1ZHYJ2Wwgxes4m8Ba88PeK",
+  "anger": 1
+  },
+  {
+  "title": "So Appalled",
+  "spotify_id": "6K07Ahf6V7CAQn0ikrOztl",
+  "anger": 4
+  },
+  {
+  "title": "Devil In A New Dress",
+  "spotify_id": "1UGD3lW3tDmgZfAVDh6w7r",
+  "anger": 1
+  },
+  {
+  "title": "Runaway",
+  "spotify_id": "3DK6m7It6Pw857FcQftMds",
+  "anger": 3
+  },
+  {
+  "title": "Hell of a Life",
+  "spotify_id": "3rCNmRonlHN1TXQLcG3dSk",
+  "anger": 1
+  },
+  {
+  "title": "Blame Game",
+  "spotify_id": "4EndPA8b6FDWYp1RgsnLEB",
+  "anger": 4
+  },
+  {
+  "title": "Lost in the World",
+  "spotify_id": "2Im64pIz6m0EJKdUe6eZ8r",
+  "anger": 2
+  },
+  {
+  "title": "On Sight",
+  "spotify_id": "1gqkRc9WtOpnGIqxf2Hvzr",
+  "anger": 5
+  },
+  {
+  "title": "Black Skinhead",
+  "spotify_id": "722tgOgdIbNe3BEyLnejw4",
+  "anger": 5
+  },
+  {
+  "title": "I Am A God",
+  "spotify_id": "0HMCdlOPJkAGlB0MlSWIcO",
+  "anger": 5
+  },
+  {
+  "title": "New Slaves",
+  "spotify_id": "4cAgkb0ifwn0FSHGXnr4F6",
+  "anger": 5
+  },
+  {
+  "title": "Hold My Liquor",
+  "spotify_id": "5nIu0VwPOsjkF61zfevLKh",
+  "anger": 5
+  },
+  {
+  "title": "I'm In It",
+  "spotify_id": "52NmkyHsGsHGb1UX8fTkMg",
+  "anger": 3
+  },
+  {
+  "title": "Blood on the Leaves",
+  "spotify_id": "42GcjriRK6srwHkfbkBqVl",
+  "anger": 4
+  },
+  {
+  "title": "Guilt Trip",
+  "spotify_id": "5nPOM0nFRAJ3XI8xCxNAzO",
+  "anger": 4
+  },
+  {
+  "title": "Send It Up",
+  "spotify_id": "3RKblQNJs8HPvWBgXmq6nn",
+  "anger": 4
+  },
+  {
+  "title": "Bound 2",
+  "spotify_id": "3sNVsP50132BTNlImLx70i",
+  "anger": 1
+  }
 
 ]

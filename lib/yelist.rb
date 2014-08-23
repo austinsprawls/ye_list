@@ -1,11 +1,11 @@
 module Ye
-  def self.db
-    @__db_instance
-  end
-
-  def self.db=(database)
-    @__db_instance = database
-  end
+  # def self.db
+  #   @__db_instance
+  # end
+  #
+  # def self.db=(database)
+  #   @__db_instance = database
+  # end
 end
 
 require_relative './databases/sql.rb'

@@ -1,14 +1,20 @@
-/* *, *:before, *:after{
-  border: 1px solid red;
-  box-sizing: border-box;
+/*  *, *:before, *:after{
+ border: 1px solid red;
+ box-sizing: border-box;
 } */
 
-h1, p{
+h1, p, a, td{
   color: #fff;
   font-family: 'Oswald', sans-serif;
 }
-.brand{
+form{
+  width: 50%;
+}
+iframe{
   width: 100%;
+}
+.brand{
+  width: 50%;
   margin-bottom: 1%;
 }
 .logo, .instructions{
@@ -16,7 +22,7 @@ h1, p{
 }
 .emotions{
   margin-top: 1%;
-  width: 50%;
+  width: 100%;
 }
 .img-circle{
   border: 2px solid #fff;
@@ -27,6 +33,16 @@ h1, p{
 .img-circle:hover{
   border: 2px solid purple;
 }
+.panel{
+  width: 45%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+  position: absolute;
+  top: 0;
+  right: 0;
+  overflow: scroll;
+}
+
 body{
   background: url('../img/yeezus.jpg') no-repeat;
   background-size: cover;

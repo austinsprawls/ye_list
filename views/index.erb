@@ -27,6 +27,7 @@
       <div class="instructions">
         <p>1. Choose your rage level</p>
         <p>2. 'Ye the fuck out</p>
+        <p>3. Ain't no #3, you Spongebob-face motherfucker</p>
       </div>
     </div>
     <form method="post" action="/">
@@ -39,8 +40,16 @@
       </div>
     </form>
 
-    <% if @emotion %>
-      <p><%= @emotion %></p>
+    <% if @json_tracks_array %>
+      <div class="panel panel-default pull-right">
+        <div class="panel-body">
+            <% @json_tracks_array.each do |track| %>
+              <iframe src="https://embed.spotify.com/?uri=spotify:track:<%= track %>"
+               height="80" frameborder="0" allowtransparency="true"></iframe>
+            <% end %>
+          </table>
+        </div>
+      </div>
     <% end %>
 
 
